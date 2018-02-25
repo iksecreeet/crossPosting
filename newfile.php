@@ -6,5 +6,8 @@ function __construct($foo = null)
 foreach ($variable as $key => $value) {
 	echo 'test';
 }
+while ( i <= 10; ++2) {
+	# code...
+}
   ?>
   
